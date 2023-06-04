@@ -1,4 +1,4 @@
-##  Projeto Loja de Pizzas com JavaScript
+##  Loja de Pizzas
 ### Esse projeto é uma atividade prática desenvolvida no curso de JavaScript da [B7web](https://alunos.b7web.com.br/curso/javascript/compra-de-pizzas-parte-1) 
 <br>
 <p float="center">
@@ -20,4 +20,4 @@
 
 ### Visualização do projeto: <hr>
 
-- [Pizzaria](https://simulador-loteria.netlify.app/)
+- [Pizzaria](https://pizzaria-b7web.netlify.app/)
