@@ -1,10 +1,10 @@
 ##  Projeto Loja de Pizzas com JavaScript
-### Esse projeto é uma atividade prática desenvolvida no curso de JavaScript da B7web.
+### Esse projeto é uma atividade prática desenvolvida no curso de JavaScript da [B7web](https://alunos.b7web.com.br/curso/javascript/compra-de-pizzas-parte-1) 
 <br>
 <p float="center">
-  <img  alt="CSS" height="500" width="400" src="screenshot.do.projeto.png"></img>
-  <img  alt="CSS" height="500" width="400" src="screenshot.do.projeto2.png"></img>
-  <img  alt="CSS" height="500" width="400" src="screenshot.do.projeto3.png"></img>
+  <img src="screenshot.do.projeto.png"></img><p>
+  <img src="screenshot.do.projeto2.png"></img><p>
+  <img src="screenshot.do.projeto3.png"></img>
 </p>
 <br>
 
